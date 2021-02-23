@@ -1,0 +1,17 @@
+body {
+  
+  background-image: url(&quot;/assets/img/home.png&quot;);
+ background-position: center center;
+  background-repeat: no-repeat;
+ background-attachment: scroll;
+  background-size: cover;
+}
+
+ /*For mobile devices */
+/*@media only screen and (max-width: 767px) {
+ body {
+    background-image: url(&quot;/assets/img/mobile.jpg&quot;);
+ }
+
+	}*/
+
